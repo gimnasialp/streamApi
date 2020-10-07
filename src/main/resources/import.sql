@@ -1,0 +1,1 @@
+insert into bitcoins  (price,create_At) values (9.995, NOW());
